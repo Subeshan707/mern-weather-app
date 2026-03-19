@@ -11,13 +11,13 @@ The app uses the OpenWeather API and provides a clean, responsive UI for both de
 
 ## Preview
 
-Add your screenshots or demo GIF here:
+Screenshots:
 
-- `public/preview-desktop.png`
+<img src="public/preview-desktop.png" alt="Weather Dashboard" width="800" />
 
-You can also add a deployed demo link:
+Deployed demo link:
 
-- Live Demo: `https://your-demo-url-here`
+- Live Demo: `https://mern-weather-app-brown.vercel.app/`
 
 ## Features
 
